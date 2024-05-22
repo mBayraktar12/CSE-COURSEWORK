@@ -1,0 +1,1 @@
+https://github.com/mBayraktar12/DTI-Link-Prediction-PyTorch/tree/main/data
